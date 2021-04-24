@@ -12,7 +12,7 @@ structure of webpage:
 login.php 
 home.php  
     viewEntries.php 
-        all files with view__.php in the name
+         all files with view__.php in the name
     updateEntries.php 
         all files with update__.php in the name
     makePurchase.php
